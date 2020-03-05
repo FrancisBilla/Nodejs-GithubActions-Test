@@ -38,3 +38,4 @@ http
   .listen(8080);
 
 console.log('server started');
+console.log('Client Secret : 2cb978597c592e35b3c0c2c0548df93b');
